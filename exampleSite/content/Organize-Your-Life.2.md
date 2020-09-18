@@ -5,7 +5,6 @@ description: This is meta description
 type: featured
 image: "/images/x4lafanl6iwz.jpg"
 categories:
-- shinobi
 - Uchiha
 tags:
 - rinnegan
