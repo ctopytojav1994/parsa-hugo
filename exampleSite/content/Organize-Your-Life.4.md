@@ -3,7 +3,7 @@ title: Kakashi Sensei
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/kakashi_part_iii-1.png"
+image: "/images/webp-net-resizeimage.png"
 categories:
 - Nature
 tags:
