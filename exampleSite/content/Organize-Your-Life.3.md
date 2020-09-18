@@ -1,5 +1,5 @@
 ---
-title: Be Immortal
+title: Isshiki
 date: 2019-05-14T14:46:10.000+06:00
 description: Isshiki/Jigen
 type: featured
