@@ -5,10 +5,10 @@ description: Isshiki/Jigen
 type: featured
 image: "/images/isshiki.jpg"
 categories:
-- Article
+- Immortal
 tags:
-- Photos
-- Article
+- 8path
+- kamra
 
 ---
 Isshiki is a cruel, ruthless and pragmatic being, having completely overtook Jigen's mind and body and showing no care or respect for the body he inhabits, cursing at his limits and degrades him as a worthless vessel. Having deemed Jigen's body as weak, Isshiki strongly desires in possessing [Kawaki](https://villains.fandom.com/wiki/Kawaki "Kawaki") and turning him into his new body. He had no qualms subjecting Kawaki to a brutal, harsh training so he would master Kama despite having promised him safety.
