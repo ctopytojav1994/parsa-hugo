@@ -11,41 +11,16 @@ tags:
 - Article
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Isshiki is a cruel, ruthless and pragmatic being, having completely overtook Jigen's mind and body and showing no care or respect for the body he inhabits, cursing at his limits and degrades him as a worthless vessel. Having deemed Jigen's body as weak, Isshiki strongly desires in possessing [Kawaki](https://villains.fandom.com/wiki/Kawaki "Kawaki") and turning him into his new body. He had no qualms subjecting Kawaki to a brutal, harsh training so he would master Kama despite having promised him safety.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-> aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+While leading Kara, Isshiki shows formality and courteousness, addressing the fellow members of his organization politely before beginning their meeting, though he can show a serious and authoritarian side to himself that can easily silence even the prideful Victor and hot-headed Delta and make them follow his orders despite any reluctance in their part. Unlike the other Otsutsuki, he seems to have a sense of comradery, referring to the other Inners as comrades and indicating he was willing to negotiate with Koji and Amado despite their betrayal costing him Kawaki, and is not above showing pity towards his foes, as he, albeit condescendingly, showed sympathy towards Koji for not realizing he was being made a fool by Amado and courteously and kindly asked for a last message for him to deliver to Amado. He even extends his manners to his enemies, as he politely greeted Naruto Uzumaki, and apologized for not removing his shoes when entering the Uzumaki household. He also showed similar attitude when asking one of Konoha's shinobi where Kawaki is.
 
 ![](/images/ddzx94t-a3314a00-9c29-43d7-b6c6-89a6ce8a4e93.gif)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Unlike the other Otsutsuki and Inners, who have shown themselves to be sadistic and confrontational, Isshiki is shown to prefer diplomacy and swift handling of the problems at hand, preferring to only incapacitate enemies when not necessarily having to kill them and even willing to avoid conflict if potential adversaries are agreeable to his terms, as shown by how he merely left Naruto pinned down after he easily knocked him aside and was willing to accept Kawaki's deal of sparing Naruto if he returned willingly. When arriving at Konoha, he only injures but doesn't kill one of the shinobi who challenged him and spared the other when he told him they don't know where Kawaki is. In fact, he didn't even bother to attack the civillians, only chosing to do so when Naruto made it clear he would never hand over Kawaki without a fight. Likewise, he is much more composed and systematic in his approach to matters at hand, scarcely showing anger when things go against his plans and remaining as determined and unrelenting as ever.
+
+While fully confident in his overwhelming power to the point of slight arrogance, unlike the rest of his brethren, he is much less prone to arrogant boasts and unlikely to let his arrogance cloud his judgement, even willing to praise foes, as he merely calmly threatened to eliminate Naruto and while remaining unfazed at facing both Naruto and Sasuke, he complimented Sasuke for his intelligence and ability to see through his ability, praised their performance in revealing the weakness of his ability and despite lapsing upon using his full power and overwhelming them rather easily, frequently mocking and taunt Naruto and Sasuke for their poor efforts, he is not above admitting their strategical attempt was a good one and even stated he felt entertained by the fight and expressing bizarre gratitude before decisively defeating them. His greatest lapse was when fighting Kashin Koji, where despite his vessel being critically weakened from his defeat of Naruto and Sasuke, he remained confident he could defeat the man, which lead to Koji persisting enough to lure him into a trap that killed his vessel. He even toyed with Koji as soon as he was reincarnated to show the vast gap between their powers and took time to teach Koji the secrets of his techniques after decisively defeating them.
+
+Due to his surprising lack of over-confidence, Isshiki is shown to be extremely intelligent, cautious and perceptive, as he keeps the full extent of his powers a secret from even his closest allies and easily sees through Kashin Koji and Amado's plans but conceals any suspicions he had regarding Kashin Koji and Amado, luring them into revealing their plans. He was even willing to admit that despite having figured out Amado's goals, the old man had managed to get the better of him.
+
+Isshiki displays complex beliefs regarding fate and shinobi: He believes that all living beings have their fates predestined by their genetics, stating that Koji, a clone of Jiraiya, is destined to die just like his template due to having inherited his genes despite acknowledging his fate to be that of a mighty star of change, which indicated that he may have respected the man's fate and how he died for a cause greater than himself. Unlike his brethren, Isshiki seemed to have an unusually higher view of them, believing them to be above that of the self-sacrificing pawn he saw Koji to be, and he later on said that due to Koji being unwilling to acknowledge Amado's betrayal, he had the weaknesses of a normal human and was not fully a professional shinobi, suggesting that though his description of Naruto as a peace-loving idiot and outright dismissal of the shinobi threatening his organization indicated he still saw them as being beneath him, he does acknowledge and respect them above normal non-chakra using humans and found their willingness to sacrifice themselves as being worthy of praise.
