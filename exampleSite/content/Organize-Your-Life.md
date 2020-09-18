@@ -6,9 +6,7 @@ type: featured
 image: "/images/9ab6a2794d0ed343a4c5d489f5d982.jpg"
 categories:
 - Six Path Sage
-tags:
-- Photos
-- Finance
+tags: []
 
 ---
 **Naruto Uzumaki** (うずまきナルト, _Uzumaki Naruto_) is a [shinobi](https://naruto.fandom.com/wiki/Shinobi "Shinobi") of [Konohagakure](https://naruto.fandom.com/wiki/Konohagakure "Konohagakure")'s [Uzumaki clan](https://naruto.fandom.com/wiki/Uzumaki_clan "Uzumaki clan"). He became the [jinchūriki](https://naruto.fandom.com/wiki/Jinch%C5%ABriki "Jinchūriki") of the [Nine-Tails](https://naruto.fandom.com/wiki/Nine-Tails "Nine-Tails") on the [day of his birth](https://naruto.fandom.com/wiki/Nine-Tailed_Demon_Fox%27s_Attack "Nine-Tailed Demon Fox's Attack") — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining [Team Kakashi](https://naruto.fandom.com/wiki/Team_Kakashi "Team Kakashi"), Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become [Hokage](https://naruto.fandom.com/wiki/Hokage "Hokage"). In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the **Hero of the Hidden Leaf** (木ノ葉隠れの英雄, _Konohagakure no Eiyū_, _Literally meaning:_ Hero of the Hidden Tree Leaves). He soon proved to be one of the main factors in winning the [Fourth Shinobi World War](https://naruto.fandom.com/wiki/Fourth_Shinobi_World_War "Fourth Shinobi World War"), leading him to achieve his dream and become the village's **Seventh Hokage** (七代目火影, _Nanadaime Hokage_, _Literally meaning:_ Seventh Fire Shadow)
