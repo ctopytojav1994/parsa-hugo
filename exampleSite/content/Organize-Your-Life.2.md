@@ -1,5 +1,5 @@
 ---
-title: 'Live '
+title: Sasuke Uchiha
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
@@ -10,43 +10,8 @@ tags:
 - Fashion
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Sasuke Uchiha** (うちはサスケ, _Uchiha Sasuke_) is one of the last surviving members of [Konohagakure](https://boruto.fandom.com/wiki/Konohagakure "Konohagakure")'s [Uchiha clan](https://boruto.fandom.com/wiki/Uchiha_Clan "Uchiha Clan"). After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi. He is added to Team 7 upon becoming a ninja and, through competition with his rival and best friend, [Naruto Uzumaki](https://boruto.fandom.com/wiki/Naruto_Uzumaki "Naruto Uzumaki"), Sasuke starts developing his skills. Dissatisfied with his progress, he defects from Konoha so that he can acquire the strength needed to exact his revenge. His years of seeking vengeance and his actions that followed become increasingly demanding, irrational and isolates him from others, leading him to be branded as an international criminal. After learning the truth of his brother's sacrifice and later proving instrumental in ending the Fourth Shinobi World War and being happily redeemed by Naruto, Sasuke decides to return to Konoha and dedicates his life to help protect the village and its inhabitants becoming referred to as the "**Supporting Kage**" (支う影, Sasaukage).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](/images/sasuke.gif)
 
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Sasuke's [chakra](https://naruto.fandom.com/wiki/Chakra "Chakra") is quite strong, in part due to being the [reincarnation](https://naruto.fandom.com/wiki/Reincarnation "Reincarnation") of [Indra Ōtsutsuki](https://naruto.fandom.com/wiki/Indra_%C5%8Ctsutsuki "Indra Ōtsutsuki"). Whenever Sasuke's [Curse of Hatred](https://naruto.fandom.com/wiki/Curse_of_Hatred "Curse of Hatred") deepens, others remark how much stronger,[\[26\]](https://naruto.fandom.com/wiki/Sasuke_Uchiha#cite_note-25) darker,[\[27\]](https://naruto.fandom.com/wiki/Sasuke_Uchiha#cite_note-26) and more sinister his chakra becomes.[\[28\]](https://naruto.fandom.com/wiki/Sasuke_Uchiha#cite_note-ch309-27) His reserves are also quite large, enough to use [Chidori](https://naruto.fandom.com/wiki/Chidori "Chidori") twice a day during Part I without aid. By Part II, Sasuke is able to use Chidori and related techniques multiple times in a single day, as well as [summon](https://naruto.fandom.com/wiki/Summoning_Technique "Summoning Technique") creatures as large as [Manda](https://naruto.fandom.com/wiki/Manda "Manda"). His chakra control, though less refined than [Sakura Haruno](https://naruto.fandom.com/wiki/Sakura_Haruno "Sakura Haruno")'s, is nevertheless very high. In the anime, he could effectively perform hand seals between his own and an enemy's hand.[\[29\]](https://naruto.fandom.com/wiki/Sasuke_Uchiha#cite_note-NS476-28) In adulthood, after losing one of his arms, he learned to use one-handed [hand seals](https://naruto.fandom.com/wiki/Hand_seals "Hand seals").[\[30\]](https://naruto.fandom.com/wiki/Sasuke_Uchiha#cite_note-29) His chakra's strength was also potent enough that [Urashiki Ōtsutsuki](https://naruto.fandom.com/wiki/Urashiki_%C5%8Ctsutsuki "Urashiki Ōtsutsuki") openly commented on the strength of the chakra he stole from Sasuke, noting it was magnificent. While not an actual sensor himself, during his final battle against Naruto, he sensed Naruto's build-up of chakra and natural energy from [Kurama](https://naruto.fandom.com/wiki/Kurama "Kurama").[\[31\]](https://naruto.fandom.com/wiki/Sasuke_Uchiha#cite_note-30) Also, in sharing half of Hagoromo's power with Naruto, he is also able to sense Naruto's chakra from a different dimension
