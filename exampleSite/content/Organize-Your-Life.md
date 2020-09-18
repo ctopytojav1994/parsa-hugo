@@ -1,9 +1,9 @@
 ---
-title: Conquer
-date: 2019-05-14T14:46:10.000+06:00
+title: Naruto Uzamaki
+date: 2019-08-21T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/naruto_movie-lionsgate.jpg"
+image: "/images/nu.jpg"
 categories:
 - Valuable Idea
 tags:
@@ -11,43 +11,8 @@ tags:
 - Finance
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Naruto Uzumaki** (うずまきナルト, _Uzumaki Naruto_) is a [shinobi](https://naruto.fandom.com/wiki/Shinobi "Shinobi") of [Konohagakure](https://naruto.fandom.com/wiki/Konohagakure "Konohagakure")'s [Uzumaki clan](https://naruto.fandom.com/wiki/Uzumaki_clan "Uzumaki clan"). He became the [jinchūriki](https://naruto.fandom.com/wiki/Jinch%C5%ABriki "Jinchūriki") of the [Nine-Tails](https://naruto.fandom.com/wiki/Nine-Tails "Nine-Tails") on the [day of his birth](https://naruto.fandom.com/wiki/Nine-Tailed_Demon_Fox%27s_Attack "Nine-Tailed Demon Fox's Attack") — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining [Team Kakashi](https://naruto.fandom.com/wiki/Team_Kakashi "Team Kakashi"), Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become [Hokage](https://naruto.fandom.com/wiki/Hokage "Hokage"). In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the **Hero of the Hidden Leaf** (木ノ葉隠れの英雄, _Konohagakure no Eiyū_, _Literally meaning:_ Hero of the Hidden Tree Leaves). He soon proved to be one of the main factors in winning the [Fourth Shinobi World War](https://naruto.fandom.com/wiki/Fourth_Shinobi_World_War "Fourth Shinobi World War"), leading him to achieve his dream and become the village's **Seventh Hokage** (七代目火影, _Nanadaime Hokage_, _Literally meaning:_ Seventh Fire Shadow)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](/images/nu.gif)
 
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+As an adult, Naruto becomes wiser and more mature, though he retains some of his negligence for honourifics.[\[44\]](https://naruto.fandom.com/wiki/Naruto_Uzumaki#cite_note-43) Although he finally achieves his dream of becoming Hokage, its many tasks would often overwhelm Naruto to the point of him unable to spend time with his family. He admits that part of this stems was from not having grown up with a father himself, making him unsure of how to interact appropriately with his children.[\[45\]](https://naruto.fandom.com/wiki/Naruto_Uzumaki#cite_note-BE10-44) Naruto also tends to be more responsible in his duties as Hokage and as a father. Nevertheless, Naruto profoundly loves his family, as he creates shadow clones to tend to them while he's busy, protects them in times of danger, spends time with them when he can, and expresses pride in his children's successes.[\[39\]](https://naruto.fandom.com/wiki/Naruto_Uzumaki#cite_note-BorutoMovie-38) He adopts Hiruzen's philosophy that everyone in the village is his family, believing that genuine relationships are made up of love rather than blood relations.[\[46\]](https://naruto.fandom.com/wiki/Naruto_Uzumaki#cite_note-45) His refusal to give his son any special treatment due to their blood-relationships, along with the insistence that the boy professionally addresses him as "Seventh" or "Hokage" while in the office, is a testament of Naruto's lack of bias and prejudice.[\[39\]](https://naruto.fandom.com/wiki/Naruto_Uzumaki#cite_note-BorutoMovie-38) However, after facing [Momoshiki Ōtsutsuki](https://naruto.fandom.com/wiki/Momoshiki_%C5%8Ctsutsuki "Momoshiki Ōtsutsuki") and realising how his overly-committed nature serving the entire village was significantly affecting his own family's happiness, Naruto came to accept that he needed to give them more attention. As such, by allowing more help from others, Naruto was able to enjoy more time with his family, restoring the same healthy relationship he had with them before he became Hokage.
