@@ -37,7 +37,7 @@ labore et dolore magnam aliquam quaerat voluptatem.
 > labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 > aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
-![](../images/post-img.jpg)
+![](/images/ddzx94t-a3314a00-9c29-43d7-b6c6-89a6ce8a4e93.gif)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
