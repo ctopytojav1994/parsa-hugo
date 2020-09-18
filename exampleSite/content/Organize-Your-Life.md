@@ -1,9 +1,9 @@
 ---
-title: hey there
+title: Conquer
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/contact.jpg"
+image: "/images/naruto_movie-lionsgate.jpg"
 categories:
 - Valuable Idea
 tags:
