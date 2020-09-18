@@ -5,10 +5,11 @@ description: This is meta description
 type: featured
 image: "/images/webp-net-resizeimage.png"
 categories:
-- Nature
+- Senpai
 tags:
-- Fashion
-- Nature
+- senpai
+- chidori
+- kamui
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
