@@ -5,7 +5,7 @@ description: This is meta description
 type: featured
 image: "/images/9ab6a2794d0ed343a4c5d489f5d982.jpg"
 categories:
-- Valuable Idea
+- Six Path Sage
 tags:
 - Photos
 - Finance
