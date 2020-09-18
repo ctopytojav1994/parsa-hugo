@@ -3,7 +3,7 @@ title: Naruto Uzamaki
 date: 2019-08-21T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/nu.jpg"
+image: "/images/9ab6a2794d0ed343a4c5d489f5d982.jpg"
 categories:
 - Valuable Idea
 tags:
