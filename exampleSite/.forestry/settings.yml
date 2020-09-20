@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: exampleSite/content
   label: Post
-  create: documents
+  create: none
   match: "*"
   templates:
   - post
@@ -21,7 +21,7 @@ sections:
   label: Contact
   create: all
   match: "*"
-  new_doc_ext: "/Users/jonathanjones/Downloads/Software:WebDEV/dbburger.css"
+  new_doc_ext: dbburger.css
 - type: directory
   path: exampleSite
   label: Configuration
