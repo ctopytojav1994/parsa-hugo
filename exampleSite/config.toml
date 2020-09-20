@@ -3,11 +3,11 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "\"Parsa Hugo | Personal Blog Template\""
+title = "Welcome"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
+weight = "4"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -18,9 +18,9 @@ home = ["HTML", "RSS", "JSON"]
 address = "123 happy place state,00000"
 author = "editor"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = ".. data"
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "@publisher"
 description = "This is meta description"
 email = "exmaple@email.com"
 google_analitycs_id = "Your ID"
