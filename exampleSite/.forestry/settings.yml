@@ -19,8 +19,9 @@ sections:
 - type: directory
   path: exampleSite/content/contact
   label: Contact
-  create: none
+  create: all
   match: "*"
+  new_doc_ext: "/Users/jonathanjones/Downloads/Software:WebDEV/dbburger.css"
 - type: directory
   path: exampleSite
   label: Configuration
