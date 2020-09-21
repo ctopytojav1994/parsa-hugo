@@ -1,15 +1,15 @@
 ---
-title: organize with us
-date: 2020-09-17T04:00:00+00:00
+title: Akatsuki
+date: 2020-09-17T04:00:00.000+00:00
 description: This is meta description
 type: featured
-image: "/images/masonary-post/post-9.jpg"
+image: "/images/webp-net-resizeimage-1.png"
 categories:
-- Philosophy
+- Peace
+- Akutsuki
 tags:
 - Philosophy
 - Photos
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
